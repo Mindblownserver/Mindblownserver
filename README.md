@@ -1,5 +1,8 @@
 # 👨 About Me:
-🔭 I’m currently working on cloning inscription.tn website to better grasp the Vuejs and Quarkus<br><br>🌱 I’m presently enrolled in an engineering degree <br>in the Higher Institute of Informatics and Mathematics in Monastir.<br><br>🤝I had a 3-month internship at SORETRAK (public transportation company in Kairouan), <br>developing a website that helped the administration better schedule trips by visualising them intuitively with filters.<br><br>💪I like tackling challenges as they improve my problem-solving and language mastery<br><br>👩🏻‍💻 In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming and Backend and HTML, CSS, JS and Vue for Frontend<br>
+I'm Mohamed Yassine Kharrat, born in Tunisia. I love video games. their mechanics and puzzles are what showed me how fascinating the world of IT can be.<br><br>
+I’m presently enrolled in an engineering degree at the Higher Institute of Informatics and Mathematics in Monastir and through commitment and hard work, I plan on getting the software engineering diploma.
+
+🔭 I’m currently working on cloning inscription.tn website to better grasp the Vuejs and Quarkus<br><br>🤝I had a 3-month internship at SORETRAK (public transportation company in Kairouan), <br>developing a website that helped the administration better schedule trips by visualising them intuitively with filters.<br><br>💪I like tackling challenges as they improve my problem-solving and language mastery<br><br>👩🏻‍💻 In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming and Backend and HTML, CSS, JS and Vue for Frontend<br>
 
 
 ## 🌐 Socials:
