@@ -2,7 +2,14 @@
 I'm Mohamed Yassine Kharrat, born in Tunisia. I love video games. Their mechanics and puzzles showed me how fascinating the technology world can be.<br><br>
 I’m presently enrolled in an engineering degree at the Higher Institute of Informatics and Mathematics in Monastir. I plan on getting the software engineering diploma and excelling as a software engineer through commitment and hard work.
 
-🔭 I’m currently working on cloning inscription.tn website to better grasp the Vuejs and Quarkus<br><br>🤝I had a 3-month internship at SORETRAK (public transportation company in Kairouan), <br>developing a website that helped the administration better schedule trips by visualising them intuitively with filters.<br><br>💪I like tackling challenges as they improve my problem-solving and language mastery<br><br>👩🏻‍💻 In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming, Quarkus for Backend and VueJs for Frontend<br>
+🔭 Worked on inscription.tn website clone to better grasp the Vuejs and Quarkus. Worked on backend and frontend side of personnel and teachers management for the university with my friend Aziz Ouni [here](https://github.com/ouniaziz/projet-web-RH). Also worked on mobile apps like [Data classification](https://github.com/Mindblownserver/Data-Classification-App).
+<br><be>
+🤝 Currently working on Local Mobile Device Management in SORETRAK (Kairoan, Tunisia), building it from scratch.
+I had a 3-month internship at SORETRAK (public transportation company in Kairouan), <br>developing a website that helped the administration better schedule trips by visualising them intuitively with filters.
+<br><be>
+💪 I like tackling challenges as they improve my problem-solving and language mastery
+<br><be>
+👩🏻‍💻 In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming, Quarkus for Backend and VueJs for Frontend<br>
 
 
 ## 🌐 Socials:
