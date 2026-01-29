@@ -1,32 +1,26 @@
 # 👨 About Me:
-I'm Mohamed Yassine Kharrat, born in Tunisia. I love video games. Their mechanics and puzzles showed me how fascinating the technology world can be.<br><br>
-I’m presently enrolled in an engineering degree at the Higher Institute of Informatics and Mathematics in Monastir. I plan on getting the software engineering diploma and excelling as a software engineer through commitment and hard work.
+I'm Mohamed Yassine Kharrat, born in Tunisia. I love video games. Their mechanics and puzzles made me love the technology behind it.<br><br>
+I’m presently enrolled in a Software engineering degree at the Higher Institute of Informatics and Mathematics in Monastir. I plan on getting the software engineering diploma and excelling as a software engineer through commitment and hard work.
 
-🔭 Worked on inscription.tn website clone to better grasp the Vuejs and Quarkus. Worked on backend and frontend side of personnel and teachers management for the university with my friend Aziz Ouni [here](https://github.com/ouniaziz/projet-web-RH). Also worked on mobile apps like [Data classification](https://github.com/Mindblownserver/Data-Classification-App).
+Worked on inscription.tn website clone to better grasp the Vuejs and Quarkus. Worked on backend and frontend side of personnel and teachers management for the university with my friend Aziz Ouni [here](https://github.com/ouniaziz/projet-web-RH). Also worked on mobile apps like [Data classification](https://github.com/Mindblownserver/Data-Classification-App).
 <br><br>
-🤝 Currently working on Local Mobile Device Management in SORETRAK (Kairoan, Tunisia), building it from scratch.
+Currently working on Local Mobile Device Management in SORETRAK (Kairoan, Tunisia), building it from scratch.
 I had a 3-month internship at SORETRAK (public transportation company in Kairouan), <br>developing a website that helped the administration better schedule trips by visualising them intuitively with filters.
 <br><br>
-💪 I like tackling challenges as they improve my problem-solving and language mastery
+I like tackling challenges as they improve my problem-solving and language mastery
 <br><br>
-👩🏻‍💻 In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming, Quarkus for Backend and VueJs for Frontend<br>
+In recent years, I've been learning different languages: Python for a beginner-friendly intro to CS,<br>C for algorithm & Data Structures, Java for Object Oriented Programming, Quarkus for Backend and VueJs for Frontend<br>
 
+## CV
+[MOHAMED YASSINE KHARRAT_DEV_CV_2026.pdf](https://github.com/user-attachments/files/24929680/MOHAMED.YASSINE.KHARRAT_DEV_CV_2026.pdf)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yassine-kharrat-625995209/) 
-
-# 💻 Tech Stack:
+## 🌐 Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yassine-kharrat-625995209/) <br>
+Email: med.yassine.kharrat@gmail.com
+## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mindblownserver&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindblownserver&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mindblownserver&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mindblownserver&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mindblownserver&icon=0&color=0)](https://visitcount.itsvg.in)
-
