@@ -1,6 +1,6 @@
 # 👨 About Me:
-I'm Mohamed Yassine Kharrat, born in Tunisia. I love video games. Their mechanics and puzzles made me love the technology behind it.<br><br>
-Currently, I’m enrolled in a Software engineering degree at the Higher Institute of Informatics and Mathematics in Monastir. 
+I'm Mohamed Yassine Kharrat, born in Tunisia. Video games made me love the idea of solving problems through technology. As such, I wanted to major in IT in general and software engineering in particular.<br><br>
+Currently, I’m enrolled in Software engineering diploma at the Higher Institute of Informatics and Mathematics in Monastir. 
 
 ## CV
 [MOHAMED YASSINE KHARRAT_DEV_CV_2026.pdf](https://github.com/user-attachments/files/24929680/MOHAMED.YASSINE.KHARRAT_DEV_CV_2026.pdf)
