@@ -3,7 +3,7 @@ I'm Mohamed Yassine Kharrat, born in Tunisia. Video games made me love the idea 
 Currently, I’m enrolled in Software engineering diploma at the Higher Institute of Informatics and Mathematics in Monastir. 
 
 ## CV
-[MOHAMED YASSINE KHARRAT_DEV_CV_2026.pdf](https://github.com/user-attachments/files/24929680/MOHAMED.YASSINE.KHARRAT_DEV_CV_2026.pdf)
+[MOHAMED YASSINE KHARRAT_DEV_CV_2026.pdf](https://github.com/user-attachments/files/29092556/MOHAMED.YASSINE.KHARRAT_INT_CV_2026.pdf)
 
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yassine-kharrat-625995209/) <br>
