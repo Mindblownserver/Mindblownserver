@@ -1,14 +1,36 @@
-# 👨 About Me:
-I'm Mohamed Yassine Kharrat, born in Tunisia. Video games made me love the idea of solving problems through technology. As such, I wanted to major in IT in general and software engineering in particular.<br><br>
-Currently, I’m enrolled in Software engineering diploma at the Higher Institute of Informatics and Mathematics in Monastir. 
+## Hi I'm Mohamed Yassine Kharrat
+
+> Through puzzles and games, I found my passion in **problem-solving**: the **backbone** skill in IT
+
+I'm a final-year software engineering student with knowledge in **android** & **full-stack web development**.
+I'm also **[certified Professional](https://www.datacamp.com/certificate/DS0024261354777)**[ Data Scientist](https://www.datacamp.com/certificate/DS0024261354777)  by datacamp on April 2025
 
 ## CV
-[MOHAMED YASSINE KHARRAT_DEV_CV_2026.pdf](https://github.com/user-attachments/files/29092556/MOHAMED.YASSINE.KHARRAT_INT_CV_2026.pdf)
+[MOHAMED YASSINE KHARRAT_INT_CV_2026.pdf](https://github.com/user-attachments/files/31122133/MOHAMED.YASSINE.KHARRAT_INT_CV_2026.pdf)
 
-## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-yassine-kharrat-625995209/) <br>
-Email: med.yassine.kharrat@gmail.com
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+## Skills
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mindblownserver)](https://github.com/anuraghazra/github-readme-stats-->
+### Android development
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio)](https://skillicons.dev)
+
+### Web development
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,react,nestjs,spring,kafka,cloudflare&perline=5)](https://skillicons.dev)
+
+<p>
+  <img 
+    src="https://raw.githubusercontent.com/commonhaus/artwork/main/projects/quarkus/icon/quarkus_icon_default.svg" 
+    width="auto" height="48" 
+    alt="Quarkus">
+</p>
+
+### Deployment & Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,githubactions,terraform,aws)](https://skillicons.dev)
+
+## Let's Connect
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mohamed-yassine-kharrat-625995209/)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mohamedyassinekharrat@duck.com)
